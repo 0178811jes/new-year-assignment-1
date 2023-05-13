@@ -14,14 +14,16 @@ body {
     min-height: 100%;
     max-width: 100%;
     overflow-x: hidden;
+    margin: 0 auto;
 }
 
 header{
     width: 1600px;
     height: 808px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     background-image: url(../images/banner/banner3.png);
     margin-left: 150px;
+   
 }
 
 .btn-clore{
