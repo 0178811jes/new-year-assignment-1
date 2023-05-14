@@ -131,7 +131,7 @@ header{
     text-align: left;
     color: white;
     padding-right: 200px;
-    background-image: url("../images/gradient1.png"), url("../images/watch.png");
+    background-image: url("/images/gradient1.png"), url("/images/watch.png");
     background-repeat: no-repeat;
     margin-bottom: 100px;
     margin-left: 380px;
